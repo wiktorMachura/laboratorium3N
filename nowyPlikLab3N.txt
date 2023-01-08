@@ -1,1 +1,2 @@
-nowy plik na potrzeby Laboratorium 3N
+nowy plik na potrzeby Laboratorium 3N\
+zmiana w pliku
